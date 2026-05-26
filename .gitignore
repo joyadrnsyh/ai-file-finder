@@ -1,0 +1,68 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+
+# ChromaDB / Vector DB
+chroma_db/
+
+# Organized files hasil AI
+AI_Organized_Files/
+
+# Model cache
+.cache/
+models/
+
+# Temporary files
+temp/
+tmp/
+
+# Torch cache
+torch_cache/
+
+# HuggingFace cache
+huggingface/
+hf_cache/
+
+# Large embedding files
+*.npy
+*.npz
+*.pkl
+
+# System files
+desktop.ini
+```
